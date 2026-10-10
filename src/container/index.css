@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+body {
+  background: linear-gradient(to right, #087F78, #10234D);
+  min-height: 100vh;
+  margin: 0;
+}
+
+
+h1 {
+  font-family: 'Audiowide', sans-serif;
+  font-size: 3.5rem;
+  color: #20d6c2;
+  text-shadow: 2px 2px 0 #087f78, 0 0 12px #20d6c2;
+  text-align: center;
+}
