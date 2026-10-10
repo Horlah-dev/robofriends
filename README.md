@@ -21,7 +21,7 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone [YOUR_REPOSITORY_URL](https://github.com/Horlah-dev/robofriends.git)
 
 ## Author
 
